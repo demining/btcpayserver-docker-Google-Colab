@@ -1,5 +1,14 @@
 [![CircleCI](https://circleci.com/gh/btcpayserver/btcpayserver-docker.svg?style=svg)](https://app.circleci.com/pipelines/github/btcpayserver/btcpayserver-docker)
 
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 #### Start accepting Bitcoin today with BTCPay Server! This guide will walk you through the installation.
 
 # Introduction
